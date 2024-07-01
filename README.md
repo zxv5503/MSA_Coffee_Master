@@ -47,3 +47,7 @@
   - 소스코드 폴더에 포함된 파일 중'msa-book-additional-description.pdf' 참고.
   - 시나리오는 1~6번 까지 번호가 붙어 있고 개략적인 흐름을 도식화하였다.
   - 각 시나리오 별로 구분하여 상세설명을 추가하였다.
+
+## 시연 영상
+
+    https://www.youtube.com/watch?v=eUNFrTzP2Jc

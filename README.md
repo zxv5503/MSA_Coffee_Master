@@ -1,15 +1,3 @@
-## mas-book additional
-
-   '자바 기반 마이크로서비스의 이해와 아키텍처 구축하기'의
-   소스 코드(msa-book)를 보완
-
-   1. 최근 버전 '라이브러리' 반영
-   2. 'Kafka' -> 'RabbitMQ'
-   3. 'eureka', 'zuul' -> 서브모듈로 통합
-   4. 'Swagger-ui' 추가
-   5. 소스코드 내 'Lombok',라이브러리 제거
-   6. '비즈니스 시나리오' 보완 및 설명자료 추가 'msa-book-additional-description.pdf'
-
 ## 프로젝트 실행환경
 
  - RabbitMQ https://www.rabbitmq.com/ 다운로드하여 로컬PC에 설치
